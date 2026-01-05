@@ -17,6 +17,8 @@ This Excel dashboard analyzes Vrinda Stores’ 2022 sales data to identify trend
 
 ## Dashboard Preview
 ![Dashboard Screenshot](vrinda_dashboard.png)
+
+## Dashboard Link
 https://1drv.ms/x/c/eec189ca3ce09b0b/IQARf-WBtA9lSJLIuUsxgZ7BAWzPVCeJNh8q-dm2TtQ8ms8
 
 ## Outcome
